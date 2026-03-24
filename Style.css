@@ -1,0 +1,12 @@
+body {
+  display: grid;
+  grid-template-columns: repeat(5, 105px);
+  /* 5 colonne */
+  gap: 5px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  border: 1px solid gray;
+}
